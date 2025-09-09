@@ -80,7 +80,7 @@ class PowerSupplyGUI(QWidget):
         self.out_button.setCursor(QCursor(Qt.CursorShape.PointingHandCursor))
         self.out_button.clicked.connect(self.toggle_power)
 
-        self.button_size = QSize(64, 64)
+        self.button_size = QSize(70, 70)
         self.svg_renderer = QSvgRenderer("resources/button.svg")
 
         self.button_icon = QPixmap(self.button_size)
@@ -91,12 +91,12 @@ class PowerSupplyGUI(QWidget):
 
         self.button_angles = {"v_course": 0, "v_fine": 0, "i_course": 0, "i_fine": 0}
 
-        x_pos = self.width() - self.button_icon.width() - 15
+        x_pos = self.width() - self.button_icon.width() - 12
 
         self.v_course_button = QPushButton("", self)
         self.v_course_button.setIcon(self.button_icon)
         self.v_course_button.setIconSize(self.button_size)
-        self.v_course_button.setGeometry(x_pos, 20, self.button_icon.width(), self.button_icon.height())
+        self.v_course_button.setGeometry(x_pos, 15, self.button_icon.width(), self.button_icon.height())
         self.v_course_button.setStyleSheet(button_style)
         self.v_course_button.setCursor(QCursor(Qt.CursorShape.SizeVerCursor))
         self.v_course_button.installEventFilter(self)
@@ -105,7 +105,7 @@ class PowerSupplyGUI(QWidget):
         self.v_fine_button = QPushButton("", self)
         self.v_fine_button.setIcon(self.button_icon)
         self.v_fine_button.setIconSize(self.button_size)
-        self.v_fine_button.setGeometry(x_pos, 111, self.button_icon.width(), self.button_icon.height())
+        self.v_fine_button.setGeometry(x_pos, 106, self.button_icon.width(), self.button_icon.height())
         self.v_fine_button.setStyleSheet(button_style)
         self.v_fine_button.setCursor(QCursor(Qt.CursorShape.SizeVerCursor))
         self.v_fine_button.installEventFilter(self)
@@ -114,7 +114,7 @@ class PowerSupplyGUI(QWidget):
         self.i_course_button = QPushButton("", self)
         self.i_course_button.setIcon(self.button_icon)
         self.i_course_button.setIconSize(self.button_size)
-        self.i_course_button.setGeometry(x_pos, 201, self.button_icon.width(), self.button_icon.height())
+        self.i_course_button.setGeometry(x_pos, 196, self.button_icon.width(), self.button_icon.height())
         self.i_course_button.setStyleSheet(button_style)
         self.i_course_button.setCursor(QCursor(Qt.CursorShape.SizeVerCursor))
         self.i_course_button.installEventFilter(self)
@@ -123,7 +123,7 @@ class PowerSupplyGUI(QWidget):
         self.i_fine_button = QPushButton("", self)
         self.i_fine_button.setIcon(self.button_icon)
         self.i_fine_button.setIconSize(self.button_size)
-        self.i_fine_button.setGeometry(x_pos, 292, self.button_icon.width(), self.button_icon.height())
+        self.i_fine_button.setGeometry(x_pos, 287, self.button_icon.width(), self.button_icon.height())
         self.i_fine_button.setStyleSheet(button_style)
         self.i_fine_button.setCursor(QCursor(Qt.CursorShape.SizeVerCursor))
         self.i_fine_button.installEventFilter(self)
