@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="18.871391mm"
+   height="18.871393mm"
+   viewBox="0 0 18.871391 18.871393"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="inomeado.svg"
+   inkscape:export-filename="background.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#a08e5e00"
+     inkscape:zoom="1.4627806"
+     inkscape:cx="933.83793"
+     inkscape:cy="672.34963"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient120"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#131313;stop-opacity:1;"
+         offset="0"
+         id="stop121" />
+      <stop
+         style="stop-color:#222222;stop-opacity:0;"
+         offset="1"
+         id="stop122" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient119"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#242424;stop-opacity:1;"
+         offset="0.63546801"
+         id="stop119" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop120" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient112"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#1e1e1e;stop-opacity:1;"
+         offset="0"
+         id="stop123" />
+      <stop
+         style="stop-color:#252525;stop-opacity:1;"
+         offset="0.77832514"
+         id="stop111" />
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:1;"
+         offset="0.8866995"
+         id="stop113" />
+    </linearGradient>
+    <linearGradient
+       id="swatch12"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop12" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient27"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#292929;stop-opacity:1;"
+         offset="0"
+         id="stop27" />
+      <stop
+         style="stop-color:#313131;stop-opacity:1;"
+         offset="0.55036855"
+         id="stop28" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient112"
+       id="radialGradient38-3-9-4"
+       cx="136.0647"
+       cy="81.485085"
+       fx="136.0647"
+       fy="81.485085"
+       r="8.9925051"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.93861205,0,0,0.93861205,-114.14029,48.773088)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient119"
+       id="radialGradient120"
+       cx="137.05954"
+       cy="155.78029"
+       fx="137.05954"
+       fy="155.78029"
+       r="10.490865"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.89942016,0,0,0.89942016,-109.70245,-14.855965)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient120"
+       id="linearGradient122"
+       x1="136.519"
+       y1="150.81189"
+       x2="137.33295"
+       y2="150.81189"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-123.48788,-30.524321)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-4.1359635,-115.82028)">
+    <circle
+       style="fill:url(#radialGradient120);fill-rule:evenodd;stroke:none;stroke-width:4.81536;stroke-dasharray:none"
+       id="path118"
+       cx="13.571659"
+       cy="125.25597"
+       r="9.4356956"
+       inkscape:export-filename="button.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:url(#radialGradient38-3-9-4);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.78336;stroke-dasharray:none;stroke-opacity:1"
+       id="path3-62-1-5"
+       r="7.8222432"
+       cy="125.25597"
+       cx="13.571659" />
+    <rect
+       style="fill:url(#linearGradient122);fill-rule:evenodd;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect44-5-5"
+       width="0.81394637"
+       height="3.5723202"
+       x="13.031116"
+       y="118.5014"
+       ry="0.40697318" />
+  </g>
+</svg>
